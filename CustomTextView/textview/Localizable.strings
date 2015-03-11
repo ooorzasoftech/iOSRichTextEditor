@@ -1,0 +1,47 @@
+/* 
+  localization.strings
+  CustomNativeEditor
+
+  Created by Medma Infomatix on 27/02/15.
+  Copyright (c) 2015 Medma Infomatix. All rights reserved.
+*/
+
+"provide_search_word"       =       "Please select string to search";
+
+"back_color" =   "Background Color";
+
+"font_color"    =   "Font Color";
+
+"Bold" =   "Bold";
+
+"Italic"  = "Italic";
+
+"font_size" = "Font Size";
+
+"font_family" = "Font Family";
+
+"done" = "Done";
+
+"cancel" = "Cancel";
+
+"NSFont" = "NSFont";
+
+"AlignCenter" = "AlignCenter";
+
+"AlignLeft" = "AlignLeft";
+
+"AlignRight" = "AlignRight";
+
+"No match found" = "No match found";
+
+"max_match_reached" = "No more matches found";
+
+"OK" = "OK";
+
+"Successfully Reaplced" =  "Successfully Replaced";
+
+"Replaced words"  =  "Replaced words";
+
+ "provide_string" = "Please provide appropriate strings";
+
+"select_string"     =       "Please select string";
